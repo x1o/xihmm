@@ -11,9 +11,9 @@ The implementation is accompanied by a formal document (in Russian) which is, in
 fact, a coursework, written by the author during his study in the St. Petersburg
 State University, in 2016.
 
-To run it, you'd need a `jupyter` notebook.  The corresponding .html and .py
-files are also included for illustrative purposes, but they may be out of sync
-with the source .ipynb file.
+To run it, you'd need a `jupyter` notebook.  Github has a built-in preview for
+the .ipynb files, though.  The corresponding .py file is also included, but it
+may be out of sync with the source .ipynb file.
 
 If you are interested in technical details or perhaps lonely and want to chat,
 drop a mail to `xio@ungrund.org`.  All the best to you.
